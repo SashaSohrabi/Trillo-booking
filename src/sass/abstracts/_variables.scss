@@ -14,3 +14,8 @@ $dark-grey-3: #999;
 $shadow-dark: 0 2rem 6rem rgba(0, 0, 0, 0.3);
 $shadow-light: 0 2rem 5rem rgba(0, 0, 0, 0.06);
 $line: 1px solid $light-grey-2;
+
+// Media Breakpoints
+$bp-largest: 75em; // 1200px
+$bp-large: 68.75em; // 1100px
+$bp-medium: 56.25em; // 900px
